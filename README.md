@@ -31,7 +31,7 @@
   <a href="https://discordapp.com/users/561154633205284874" target="_blank">
     <img src="assets/disc-icon.svg" alt="alivasaraiva#9819" width="50" height="40"/>
   </a>
-  <a href="https://www.instagram.com/savilasaraiva/" target="]_blank">
+  <a href="https://www.instagram.com/savilasaraiva/" target="_blank">
     <img src="assets/inst-icon.svg" alt="https://www.instagram.com/savilasaraiva/" width="50" height="40"/>
   </a>
   <a href="https://twitter.com/SaraivaSavila/" target="_blank">
