@@ -1,6 +1,7 @@
+<h1 align="center">Olá, < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+
 <div align="center">
-  <h1>Olá, < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-  <h2>Eu sou a Sávila!</h1>
+  <h2>Eu sou a Sávila!</h2>
   <h3>Desenvolvedora Fullstack, apaixonada solucionar problemas e revolver bugs, tentando unir o que há de melhor nas técnicas do clean code e design pattern. Entusiasta de design digital e gráfico, sempre buscando aperfeiçoar minhas habilidades e sedenta por aprender coisas novas.</h3>
 </div>
 
