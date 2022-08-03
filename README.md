@@ -1,8 +1,8 @@
 <h1 align="center">Olá, < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
-<div align="center">
-  <h2>Eu sou a Sávila!</h2>
-  <h3>Desenvolvedora Fullstack, apaixonada solucionar problemas e revolver bugs, tentando unir o que há de melhor nas técnicas do clean code e design pattern. Entusiasta de design digital e gráfico, sempre buscando aperfeiçoar minhas habilidades e sedenta por aprender coisas novas.</h3>
+<h3 align="center">Eu sou a Sávila!</h3>
+<div align="center">  
+  Desenvolvedora Fullstack, apaixonada solucionar problemas e revolver bugs, tentando unir o que há de melhor nas técnicas do clean code e design pattern. Entusiasta de design digital e gráfico, sempre buscando aperfeiçoar minhas habilidades e sedenta por aprender coisas novas.
 </div>
 
 <br/>
@@ -24,9 +24,6 @@
 <br/>
 
 <h3 align="center">Contact with me</h3>
-
-#
-
 <div align="center">  
   <a href="https://www.linkedin.com/in/savilasaraiva/" target="blank">
     <img src="assets/link-icon.svg" alt="https://www.linkedin.com/in/savilasaraiva/" width="50" height="40"/>
@@ -42,15 +39,10 @@
   </a>
 </div>
 
-<br/>
-
+<br>
 
 <h3 align="center">My Skill Set</h3>
-
-#
-
 <div align="center">
-  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52">
   </a>
@@ -94,7 +86,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52">
   </a>
 
-  <br/>
+  <br>
 
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52">
