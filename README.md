@@ -25,16 +25,16 @@
 
 <h3 align="center">Contact with me</h3>
 <div align="center">  
-  <a href="https://www.linkedin.com/in/savilasaraiva/" target="blank">
+  <a href="https://www.linkedin.com/in/savilasaraiva/" target="_blank">
     <img src="assets/link-icon.svg" alt="https://www.linkedin.com/in/savilasaraiva/" width="50" height="40"/>
   </a>
-  <a href="https://discordapp.com/users/561154633205284874" target="blank">
+  <a href="https://discordapp.com/users/561154633205284874" target="_blank">
     <img src="assets/disc-icon.svg" alt="alivasaraiva#9819" width="50" height="40"/>
   </a>
-  <a href="https://www.instagram.com/savilasaraiva/" target="blank">
+  <a href="https://www.instagram.com/savilasaraiva/" target="]_blank">
     <img src="assets/inst-icon.svg" alt="https://www.instagram.com/savilasaraiva/" width="50" height="40"/>
   </a>
-  <a href="https://twitter.com/SaraivaSavila/" target="blank">
+  <a href="https://twitter.com/SaraivaSavila/" target="_blank">
     <img src="assets/twit-icon.svg" alt="https://twitter.com/SaraivaSavila/" width="50" height="40"/>
   </a>
 </div>
